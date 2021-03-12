@@ -10,6 +10,6 @@ The project is a recommendation system which provide a list of twenty movies as 
 ## Random Walk Algorithm 
 
 ## Concept / Libraries used for this projects
-Python
-sklearn to process string information and draw similarity
-nltk to pre-process string before applying functions from sklearn
+Python. 
+sklearn to process string information and draw similarity. 
+nltk to pre-process string before applying functions from sklearn. 
