@@ -12,4 +12,5 @@ The project is a recommendation system which provide a list of twenty movies as 
 ## Concept / Libraries used for this projects
 Python.  
 sklearn to process string information and draw similarity.  
-nltk to pre-process string before applying functions from sklearn.  
+nltk: Natural Langualge Tool Kit to pre-process string before applying functions from sklearn.  
+Pandas. 
