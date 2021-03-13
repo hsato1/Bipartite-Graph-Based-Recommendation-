@@ -13,7 +13,7 @@ Bipartite Graph.
 Python.  
 sklearn to process string information and draw similarity using cosine similarity index.
 nltk: Natural Langualge Tool Kit to pre-process string before applying functions from sklearn.  
-Pandas. 
+Pandas.   
 Jaccard Similarity Index.  
 Cosine Similarity Index.  
 
