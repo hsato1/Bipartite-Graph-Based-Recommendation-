@@ -7,7 +7,10 @@ Hiroki Sato (Under Supervision of Dr. Daniel S Myers at Rollins College)
 I have been inspired by what artificial intelligence is capable of and how extensively it can be used to better our society. The recommendation engine is a great example of artificial intelligence as an application. 
 The project is a recommendation system which provide a list of twenty movies as a personalized and diverse recommendation which user might like based on movies given from a user. The system model a recommendation system which uses a random walk algorithm, used by a Pixie, recommendation engine for Pinterest.   
 ### Given movies, it will create a list of recommended movies.
-``` python code here ```
+``` 
+Enter the number of movies you have watched: 1      # you could enter more than one name of a movie
+Enter the name of the movie: Indiana Jones and the Last Crusade
+```
 
 ## Concept / Libraries used for this projects
 Random Walk Algorithm.  
