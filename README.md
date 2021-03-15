@@ -1,7 +1,7 @@
 # Graph Based Recommendation System Approach with Random Walk Algorithm
 
 ## Name
-Hiroki Sato (Under Supervision of Dr. Daniel S Myers at Rollins College)
+Hiroki Sato (With help of Dr. Daniel S Myers at Rollins College)
 
 ## Description
 I have been inspired by what artificial intelligence is capable of and how extensively it can be used to better our society. The recommendation engine is a great example of artificial intelligence as an application. 
